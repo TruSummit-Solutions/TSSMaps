@@ -10,3 +10,11 @@ https://developer.salesforce.com/docs/atlas.en-us.maps_developer_guide.meta/maps
 If you want to quickly and painlessly install the TSSMaps class in your Salesforce org, click the link below to install the unmanaged package:
 
 [Install TSSMaps Unmanaged Package](https://login.salesforce.com/packaging/installPackage.apexp?p0=04taj0000000quf)
+
+## Documentation and Support
+
+To peruse the Apex class documentation before choosing to install, click the link below:
+
+[TSSMaps Apex Class Documentation](https://trusummit-solutions.github.io/TSSMaps/#/TSSMaps)
+
+Check back soon for code examples and other details on our Wiki page.
