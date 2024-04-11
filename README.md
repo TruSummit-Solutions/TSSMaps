@@ -7,4 +7,4 @@ https://developer.salesforce.com/docs/atlas.en-us.maps_developer_guide.meta/maps
 
 ## TSSMaps Apex Documentation
 
-[TSSMaps Class Documentation](./#/TSSMaps)
+[TSSMaps Class Documentation](TSSMaps.md)
